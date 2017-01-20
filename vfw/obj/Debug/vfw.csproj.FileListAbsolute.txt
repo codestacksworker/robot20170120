@@ -1,0 +1,30 @@
+C:\Users\liuviking\Desktop\motion_src\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\motion_src\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\motion_src\vfw\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\motion_src\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\motion_src\vfw\obj\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\WIFI-Robot\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\WIFI-Robot\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\WIFI-Robot\vfw\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\WIFI-Robot\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\WIFI-Robot\vfw\obj\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\WIFI-Robot - 副本\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\WIFI-Robot - 副本\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\WIFI-Robot - 副本\vfw\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\WIFI-Robot - 副本\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\WIFI-Robot - 副本\vfw\obj\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\WIFI-Robot_Release\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\WIFI-Robot_Release\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\liuviking\Desktop\WIFI-Robot_Release\vfw\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\liuviking\Desktop\WIFI-Robot_Release\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\liuviking\Desktop\WIFI-Robot_Release\vfw\obj\Debug\Tiger.Video.VFW.pdb
+C:\Users\Administrator\Desktop\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Release\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\Administrator\Desktop\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Release\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\Administrator\Desktop\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Release\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\Administrator\Desktop\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Release\vfw\obj\Debug\Tiger.Video.VFW.pdb
+C:\Users\Administrator\Desktop\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Code_www.wifi-robots.com\WIFI-Robot_Release\vfw\obj\Debug\vfw.csprojResolveAssemblyReference.cache
+C:\Users\YongRui\Desktop\WIFI-Robot\WIFI-Robot_Release\WIFI-Robot_Release\vfw\bin\Debug\Tiger.Video.VFW.dll
+C:\Users\YongRui\Desktop\WIFI-Robot\WIFI-Robot_Release\WIFI-Robot_Release\vfw\bin\Debug\Tiger.Video.VFW.pdb
+C:\Users\YongRui\Desktop\WIFI-Robot\WIFI-Robot_Release\WIFI-Robot_Release\vfw\obj\Debug\Tiger.Video.VFW.dll
+C:\Users\YongRui\Desktop\WIFI-Robot\WIFI-Robot_Release\WIFI-Robot_Release\vfw\obj\Debug\Tiger.Video.VFW.pdb
+C:\Users\YongRui\Desktop\WIFI-Robot\WIFI-Robot_Release\WIFI-Robot_Release\vfw\obj\Debug\vfw.csprojResolveAssemblyReference.cache
